@@ -1,0 +1,19 @@
+@import 'style.css';
+
+label, legend{
+    color:whitesmoke;
+    font-family: 'Raleway';
+    margin: 0;
+}
+
+fieldset{
+    width:80vw;
+}
+
+.btn{
+    margin: 0 0 1% 1%;
+}
+
+h2{
+    font-family: 'Quicksand';
+}
