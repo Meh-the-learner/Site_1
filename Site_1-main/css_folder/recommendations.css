@@ -1,0 +1,35 @@
+@import 'style.css';
+
+#list{
+    width: auto;
+    padding: 1% 1% 1% 2%;
+    font-family: "Raleway";
+    color: whitesmoke;
+    font-weight: 900;;
+    background-color: #0e0e0e;
+    list-style-type:georgian;
+    list-style-position: inside;
+    padding: 0 5px 0 5px;
+}
+ #list > li {
+    margin-bottom: 1%;
+}
+
+#list > li > ul > li{
+    margin: 1% 0 1% 5%;
+}
+
+#list > li > ul > li > a{
+    text-decoration: none;
+    color: #e34234;
+}
+
+#list > li > ul > li > a:hover{
+    color: #9c1d11;
+}
+
+.ll{
+    width: 90%;
+    margin: 0 auto 5% auto;
+    padding: 1%;
+}

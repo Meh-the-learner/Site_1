@@ -1,0 +1,29 @@
+@import 'style.css';
+
+table{
+    width:90%;
+    height:20vw;
+    font-size: 2vw;
+}
+table img{
+    height:22vw;
+    width:40vw;
+}
+table a{
+    text-decoration: none;
+    color:#e34234;
+}
+table a:hover{
+    text-decoration:line-through;
+    color:#ad2013;
+    font-weight: 900;
+}
+.space{
+    margin: 10%;
+    width:50vw;
+}
+
+#spin{
+    width: 50%;
+    margin:0;
+}
