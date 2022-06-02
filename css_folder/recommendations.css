@@ -1,11 +1,9 @@
 @import 'style.css';
 
 #list{
-    width:70%;
-    margin: 0 7.5% 2.5% 7.5%;
+    margin: 0 7.5% 4% 7.5%;
     padding: 1% 1% 1% 2%;
     font-family: "Raleway";
-    font-size: 1.5vw;
     color: whitesmoke;
     font-weight: 900;;
     border: 2px dashed #e34234;
@@ -28,3 +26,4 @@
 #list > li > ul > li > a:hover{
     color: #9c1d11;
 }
+

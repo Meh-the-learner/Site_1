@@ -72,3 +72,19 @@ p{
     color:#0e0e0e;
     font-family: 'Raleway';
 }
+
+::-webkit-scrollbar{
+    width: 10px;
+}
+
+::-webkit-scrollbar-track{
+    background: #000000;
+}
+
+::-webkit-scrollbar-thumb{
+    background: rgb(240, 240, 240);
+}
+
+::-webkit-scrollbar-thumb:hover{
+    background: rgb(255, 255, 255);
+}
