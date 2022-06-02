@@ -8,16 +8,17 @@ table > tr > td > img{
     height:10vw;
 }
 
-table a, row a{
+table a{
     text-decoration: none;
     color:#23bd30;
 }
-table a:hover, row a:hover{
+table a:hover{
     text-decoration:line-through;
     color:#13802e;
     font-weight: 900;
 }
 
 .space{
-    margin: 5%;
+    margin: 5% 5% 5% 5%;
 }
+
